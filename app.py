@@ -24,7 +24,15 @@ st.markdown("<h1 style='text-align: center;'>¿Es viable montar un negocio de A�
 st.title('')
 
 st.sidebar.header('Análisis población de Badalona')
-
+st.markdown("""
+    <style>
+        /* Cambiar el color del icono de hamburguesa del sidebar */
+        .css-1d391kg {
+            color: red !important;
+            font-size: 30px !important;
+        }
+    </style>
+""", unsafe_allow_html=True)
 opcion = st.sidebar.radio(
     "Selecciona un objetivo sobre la población:",
     ["Introducción", "👥 Edad y Estudios", "💰 Ingresos y Gastos", "🏋️‍♀️ Deportistas y Centros de deporte", "🌇 Densidad de población y Paro", 
