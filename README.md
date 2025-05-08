@@ -16,27 +16,21 @@ El objetivo de este proyecto es utilizar datos públicos y abiertos para determi
 
 ## 📁 Estructura
 EDA_acai_badalona/
-│
-├── app.py                            # Aplicación Streamlit con el análisis estructurado (main)
-├── README.md                         # Descripción breve del proyecto
-├── memoria_EDA_acai.pdf              # Dossier con contexto, hipótesis, análisis y conclusiones
-├── presentacion_EDA_acai.pdf         # Presentación final
-│
+├── app.py # Aplicación Streamlit con el análisis estructurado (main)
+├── README.md # Descripción breve del proyecto
+├── memoria_EDA_acai.pdf # Dossier con contexto, hipótesis, análisis y conclusiones
+├── presentacion_EDA_acai.pdf # Presentación final
 └── src/
-    ├── data/
-    │   └── datasets_usados.csv       # Contiene los datasets limpios utilizados
-    │
-    ├── img/
-    │   └── imágenes                  # Imágenes y gráficos utilizados
-    │
-    ├── notebooks/
-    │   └── notebooks.ipynb           # Notebooks utilizados
-    |
-    ├── rae_data/
-    │   └── datasets_utilizados.csv   # Contiene los datasets sucios
-    │
-    └── streamlit_archivos/
-        └── archivos.py               # Archivos utilizados con Streamlit
+├── data/
+│ └── datasets_usados.csv # Contiene los datasets limpios utilizados
+├── img/
+│ └── imágenes # Imágenes y gráficos utilizados
+├── notebooks/
+│ └── notebooks.ipynb # Notebooks utilizados
+├── rae_data/
+│ └── datasets_utilizados.csv # Contiene los datasets sucios
+└── streamlit_archivos/
+└── archivos.py # Archivos utilizados con Streamlit
 
         
 
