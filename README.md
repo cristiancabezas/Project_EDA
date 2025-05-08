@@ -57,3 +57,6 @@ EDA_acai_badalona/
 ## ✅ Resultado
 
 Este análisis sirve como punto de partida para tomar una decisión informada sobre si abrir un negocio de açaí en Badalona puede ser viable. Las conclusiones y recomendaciones se basan en datos reales y públicos.
+
+- Accede al main del EDA de Açaí:
+[Main](https://project-eda.streamlit.app/)
