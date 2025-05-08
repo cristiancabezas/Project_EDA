@@ -24,7 +24,7 @@ st.markdown("<h1 style='text-align: center;'>¿Es viable montar un negocio de A�
 st.title('')
 
 st.sidebar.header('Análisis población de Badalona')
-st.markdown("""
+st.sidebar.markdown("""
     <style>
         /* Cambiar el color del icono de hamburguesa del sidebar */
         .css-1d391kg {
