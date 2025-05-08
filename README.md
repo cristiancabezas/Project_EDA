@@ -1,5 +1,8 @@
 # 📊 EDA Açaí Badalona
 
+- Accede al main del EDA de Açaí:
+[Main](https://project-eda.streamlit.app/)
+
 Análisis exploratorio de datos para evaluar la viabilidad de montar un negocio de venta de açaí en la ciudad de Badalona (Barcelona).
 
 ## 🎯 Objetivo
