@@ -1,4 +1,4 @@
-# 📊 EDA_açaí_badalona
+# 📊 EDA Açaí Badalona
 
 Análisis exploratorio de datos para evaluar la viabilidad de montar un negocio de venta de açaí en la ciudad de Badalona (Barcelona).
 
@@ -49,6 +49,7 @@ EDA_acai_badalona/
 - Selenium
 - Matplotlib & Seaborn
 - Jupyter Notebooks
+- Meteosat
 - Folium
 - Streamlit
 
