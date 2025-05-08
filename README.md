@@ -15,6 +15,7 @@ El objetivo de este proyecto es utilizar datos públicos y abiertos para determi
 - Opciones de locales para su alquiler
 
 ## 📁 Estructura
+'''
 EDA_acai_badalona/
 ├── app.py # Aplicación Streamlit con el análisis estructurado (main)
 ├── README.md # Descripción breve del proyecto
@@ -31,6 +32,7 @@ EDA_acai_badalona/
 │ └── datasets_utilizados.csv # Contiene los datasets sucios
 └── streamlit_archivos/
 └── archivos.py # Archivos utilizados con Streamlit
+'''
 
         
 
