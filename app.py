@@ -54,5 +54,5 @@ elif opcion == 'Conclusiones':
     conclusion()
 
 st.sidebar.title('')
-st.sidebar.markdown("[🔗 LinkedIn](www.linkedin.com/in/cristian-cabezas-delgado)")
+st.sidebar.markdown("[🔗 LinkedIn](https://www.linkedin.com/in/cristian-cabezas-delgado)")
 st.sidebar.markdown("[💻 GitHub](https://github.com/cristiancabezas)")

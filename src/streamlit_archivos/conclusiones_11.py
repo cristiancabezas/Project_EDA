@@ -23,7 +23,7 @@ def conclusion():
     ''')
     st.markdown("""
                 ✅Contáctame por:
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/cristian-cabezas-delgado)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/cristian-cabezas-delgado)
     [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/cristiancabezas)
     """, unsafe_allow_html=True)
 if __name__ == '__main__':
