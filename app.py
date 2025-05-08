@@ -24,27 +24,6 @@ st.markdown("<h1 style='text-align: center;'>¿Es viable montar un negocio de A�
 st.title('')
 
 st.sidebar.header('Análisis población de Badalona')
-st.sidebar.markdown("""
-    <style>
-        /* Cambiar la flecha en el sidebar (el botón de expandir/contraer) */
-        .css-1e9l2r6 button[title='Toggle the sidebar'] {
-            background-color: transparent !important;  /* Fondo transparente */
-            border: none !important;  /* Sin borde */
-            padding: 0 !important;  /* Sin relleno */
-        }
-
-        /* Cambiar el icono de la flecha para expandir/contraer */
-        .css-1e9l2r6 button[title='Toggle the sidebar'] svg {
-            fill: #ff6347 !important;  /* Cambiar color de la flecha (puedes usar cualquier color que desees) */
-            transform: scale(1.5);  /* Cambiar tamaño del icono */
-        }
-
-        /* Agregar un hover effect si lo deseas */
-        .css-1e9l2r6 button[title='Toggle the sidebar']:hover svg {
-            fill: #32cd32 !important;  /* Cambiar color cuando pasa el ratón */
-        }
-    </style>
-""", unsafe_allow_html=True)
 opcion = st.sidebar.radio(
     "Selecciona un objetivo sobre la población:",
     ["Introducción", "👥 Edad y Estudios", "💰 Ingresos y Gastos", "🏋️‍♀️ Deportistas y Centros de deporte", "🌇 Densidad de población y Paro", 
