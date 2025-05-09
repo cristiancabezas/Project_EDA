@@ -2,6 +2,8 @@
 
 - Accede al main del EDA de Açaí:
 [Main](https://project-eda.streamlit.app/)
+- Accede al víde de la presentación:
+[vídeo](https://youtu.be/ze_a8Cn3H0o)
 
 Análisis exploratorio de datos para evaluar la viabilidad de montar un negocio de venta de açaí en la ciudad de Badalona (Barcelona).
 
@@ -63,3 +65,5 @@ Este análisis sirve como punto de partida para tomar una decisión informada so
 
 - Accede al main del EDA de Açaí:
 [Main](https://project-eda.streamlit.app/)
+- Accede al víde de la presentación:
+[vídeo](https://youtu.be/ze_a8Cn3H0o)
